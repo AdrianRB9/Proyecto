@@ -1,0 +1,129 @@
+
+small{
+    padding-left:220px;
+}
+
+
+h1{
+    color: rgb(23, 121, 201);
+    font-size: 50px;
+}
+
+#principal{
+    background-image: url("../imagenes/Starship_Fondo_cinturon-de-asteroides_CERES_VESTA_Marta.png");
+    width: 100%;
+    height: 230px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding-top: 90px;
+    font-size: 80px;
+    color: white;
+}
+
+
+h3{
+    color: rgb(23, 121, 201); 
+}
+
+a{
+    color: #02eece;
+}
+
+#flecha{
+    padding-left: 219px;
+}
+
+ul{
+    text-align: left;
+    font-size: 17px;
+}
+
+ol{
+    text-align: left;
+    font-size: 17px;
+}
+
+p{
+    text-align: left;
+    font-size: 19px;
+}
+
+a:hover{
+    color: #00FF00;
+}
+
+#tituloPequeño{
+    
+    text-align: center;
+    font-size: 40px;
+    color: rgb(94, 91, 94);
+}
+
+
+
+#mapa{
+    width:72%;
+}
+
+#tiempo{
+    width:70%;
+    padding-left:220px;
+}
+
+.my-fixed-item {
+    padding-bottom: 100px;
+    padding-top:0px;
+    padding-left:70px;
+    position: fixed;
+    height: 600px;
+    width: 300px;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+
+body{
+    background-image: url("../imagenes/perseo-768x525.jpg"); 
+    background-size: 65%;
+    color: white;
+}
+
+h2{
+    font-size: 36px;
+    color:rgb(86, 92, 97);
+    text-decoration: underline;
+}
+
+#modulos{
+    font-size: 22px;
+    color:rgb(218, 218, 218);
+    font-size: left;
+}
+
+#requisitos{
+    text-decoration:solid;
+    text-align: center;
+    font-size: 28px;
+    background-image: url("../imagenes/Starship_Fondo_cinturon-de-asteroides_CERES_VESTA_Marta.png");
+}
+
+#introduccion{
+    text-decoration:solid;
+    text-align: center;
+    font-size: 28px;
+    background-image: url("../imagenes/Starship_Fondo_cinturon-de-asteroides_CERES_VESTA_Marta.png");
+}
+
+#final{
+    text-align: right;
+}
+
+#antesModulos{
+    font-size: 22px;
+}
+
+#desarrollo{
+    text-align: center;
+    color: red;
+    font-size: 42px;
+}
